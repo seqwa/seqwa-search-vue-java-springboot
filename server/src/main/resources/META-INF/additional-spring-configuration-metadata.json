@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "seqwa.indexid",
+    "type": "java.lang.String",
+    "description": "A description for 'seqwa.indexid'"
+  },
+  {
+    "name": "seqwa.search.apikey",
+    "type": "java.lang.String",
+    "description": "A description for 'seqwa.search.apikey'"
+  },
+  {
+    "name": "seqwa.search.url",
+    "type": "java.lang.String",
+    "description": "A description for 'seqwa.search.url'"
+  }
+]}
